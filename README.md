@@ -1,5 +1,8 @@
 # frt_project
 This is my final frt project on online dentition booking website
+
+Static web app azure service: 
+Static Web Apps automatically builds and deploys dozens of frontend frameworks. It helps to bring your content closer to your customers with automated content geo-distribution.
 #azure link   https://kind-water-0929e0a10.1.azurestaticapps.net/
 
 ![home page](https://user-images.githubusercontent.com/91935720/185044438-8d1d499b-9851-4b4a-9211-c2b6af2be508.png)
